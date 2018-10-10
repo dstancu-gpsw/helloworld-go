@@ -1,0 +1,6 @@
+---
+applications:
+ - name: go-helloworld
+   env:
+     GOVERSION: go1.11.1
+     GOPACKAGENAME: go-helloworld
